@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<wave_config>
+   <wave_state>
+   </wave_state>
+   <db_ref_list>
+      <db_ref path="/home/lab661/Documents/xdvora1x/Digital-electronics-1/Labs/02-ise/comparator/top_tb00_isim_beh.wdb" id="1" type="auto">
+         <top_modules>
+            <top_module name="std_logic_1164" />
+            <top_module name="top_tb00" />
+         </top_modules>
+      </db_ref>
+   </db_ref_list>
+   <WVObjectSize size="5" />
+   <wvobject fp_name="/top_tb00/btn1" type="logic" db_ref_id="1">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">btn1</obj_property>
+      <obj_property name="ObjectShortName">btn1</obj_property>
+      <obj_property name="label">btn1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb00/btn0" type="logic" db_ref_id="1">
+      <obj_property name="DisplayName">label</obj_property>
+      <obj_property name="ElementShortName">btn0</obj_property>
+      <obj_property name="ObjectShortName">btn0</obj_property>
+      <obj_property name="label">btn0</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb00/ld2" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ld2</obj_property>
+      <obj_property name="ObjectShortName">ld2</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb00/ld1" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ld1</obj_property>
+      <obj_property name="ObjectShortName">ld1</obj_property>
+   </wvobject>
+   <wvobject fp_name="/top_tb00/ld0" type="logic" db_ref_id="1">
+      <obj_property name="ElementShortName">ld0</obj_property>
+      <obj_property name="ObjectShortName">ld0</obj_property>
+   </wvobject>
+</wave_config>
