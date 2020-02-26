@@ -1,0 +1,1 @@
+xst -intstyle ise -ifn "/home/lab661/Documents/xdvora1x/Digital-electronics-1/Labs/04-adder/binary_adder/full_adder.xst" -ofn "/home/lab661/Documents/xdvora1x/Digital-electronics-1/Labs/04-adder/binary_adder/full_adder.syr" 

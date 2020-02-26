@@ -1,0 +1,4 @@
+EN half_adder NULL /home/lab661/Documents/xdvora1x/Digital-electronics-1/Labs/04-adder/binary_adder/half_adder.vhd sub00/vhpl00 1582713236
+EN full_adder NULL /home/lab661/Documents/xdvora1x/Digital-electronics-1/Labs/04-adder/binary_adder/full_adder.vhd sub00/vhpl02 1582713238
+AR full_adder behavioral /home/lab661/Documents/xdvora1x/Digital-electronics-1/Labs/04-adder/binary_adder/full_adder.vhd sub00/vhpl03 1582713239
+AR half_adder behavioral /home/lab661/Documents/xdvora1x/Digital-electronics-1/Labs/04-adder/binary_adder/half_adder.vhd sub00/vhpl01 1582713237
